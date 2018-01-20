@@ -1,0 +1,172 @@
+.container {
+
+  box-sizing: border-box;
+
+  width: 500px;
+
+  margin: 0 auto;
+
+  margin-top: 100px;
+
+  border: 1px solid black;
+
+  font-family: sans-serif;
+
+  border-radius: 10px
+
+}
+
+
+
+.info {
+
+  box-sizing: border-box;
+
+  margin-top: 20px;
+
+  width: 500px;
+
+  margin: 0 auto;
+
+  color: gray;
+  
+  text-align: center;
+
+  padding: 10px;
+
+}
+
+
+
+.container h1 {
+
+  text-align: center;
+
+  font-weight: bold;
+
+  font-size: 50px;
+
+  margin: 15px;
+
+}
+
+
+
+.container h2 {
+
+  text-align: center;
+
+  font-style: italic;
+
+  font-size: 16px;
+
+  margin: 3px;
+
+}
+
+
+
+.buttons {
+
+  text-align: center;
+  margin: 15px;
+
+}
+
+
+
+.display {
+
+  margin-top: 20px;
+
+  box-sizing: border-box;
+
+}
+
+
+
+.which {
+
+  font-weight: bold;
+
+}
+
+
+
+.player ,.computer {
+
+  box-sizing: border-box;
+
+  display: inline-block;
+
+  width: 240px;
+
+  margin-top: 3px;
+
+  text-align: center;
+
+}
+
+
+
+.container .result {
+
+  margin-top: 10px;
+
+  padding: 10px;
+
+  border-top: 1px solid black;
+
+  text-align: center;
+
+  font-size: 40px;
+
+}
+
+
+
+.container .details {
+
+  text-align: center;
+
+  font-weight: bold;
+
+  font-size: 25px;
+
+  margin: 15px;
+
+}
+
+
+
+.game-container .score h1{
+
+  text-align: center;
+
+  font-weight: bold;
+
+  font-size: 30px;
+
+}
+
+
+
+.score {
+
+  border-top: 1px solid black;
+
+  margin-bottom: 20px;
+
+}
+
+
+
+.numbers {
+
+  display: block;
+
+  text-align: center;
+
+  font-size: 40px;
+
+}
